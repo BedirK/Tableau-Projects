@@ -1,7 +1,7 @@
 # Tableau-Projects
 Data Visualisation 
 
-1) [CO2 Emissions Research](https://public.tableau.com/views/CO2EmissionsResearch_16602466132530/Dashboard1?:language=en US&:display_count=n&:origin=viz_share_link) in my Tableau public profile. 
+1) [CO2 Emissions Research](https://public.tableau.com/views/CO2EmissionsResearch_16602466132530/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) in my Tableau public profile. 
 
 - " Which country has the highest CO2 emissions per capita?"
 
