@@ -14,4 +14,4 @@ Data Visualisation Studies (Tableau Public)
 
 - Variation in Covid-19 cases around the world
 
-- Trendline Future Forecast for Covid-19
+- Trendline and Future Forecast for Covid-19
