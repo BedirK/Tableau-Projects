@@ -1,5 +1,5 @@
 # Tableau-Projects
-Data Visualisation Studies (Tableau Public)
+Data Visualisation Studies (by Tableau.Public)
 
 1) [CO2 Emissions Research](https://public.tableau.com/views/CO2EmissionsResearch_16602466132530/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
