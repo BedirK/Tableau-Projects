@@ -3,7 +3,7 @@ Data Visualisation Studies (by Tableau.Public)
 
  1) [Bike Sales - Profitability Analysis](https://public.tableau.com/shared/TH6WPJ9Q4?:display_count=n&:origin=viz_share_link) 
 
-- Bike Sales - Profitability Analysis
+- Bike Sales - Profitability Analysis;
      The dashboard provides a comprehensive view of sales trends, spanning annual and monthly data and detailing performance by store, state, brand and product category, highlighting top customers and sales' rep revenue while providing strategic insights.
   
 2) [CO2 Emissions Research](https://public.tableau.com/views/CO2EmissionsResearch_16602466132530/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
