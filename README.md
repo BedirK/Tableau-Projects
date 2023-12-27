@@ -1,6 +1,8 @@
 # Tableau-Projects
 Data Visualisation Projects (by Tableau.Public)
 
+To view interactive dashboards, follow the links below:
+
  1) [Bike Sales - Profitability Analysis](https://public.tableau.com/shared/TH6WPJ9Q4?:display_count=n&:origin=viz_share_link)
 
 - Bike Sales - Profitability Analysis;
