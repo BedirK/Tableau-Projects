@@ -1,5 +1,5 @@
 # Tableau-Projects
-Data Visualisation Studies (by Tableau.Public)
+Data Visualisation Projects (by Tableau.Public)
 
  1) [Bike Sales - Profitability Analysis](https://public.tableau.com/shared/TH6WPJ9Q4?:display_count=n&:origin=viz_share_link)
 
